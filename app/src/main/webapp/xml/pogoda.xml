@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<MMWEATHER>
+ <REPORT type="frc3">
+  <TOWN index="26850" sname="Минск" latitude="54" longitude="28">
+    <FORECAST day="24" month="4" year="2007" hour="2" tod="0" predict="18" weekday="3">
+     <PHENOMENA cloudiness="3" precipitation="4" rpower="0" spower="0"/>
+     <PRESSURE max="743" min="741"/>
+     <TEMPERATURE max="6" min="4"/>
+     <WIND min="2" max="5" direction="4"/>
+     <RELWET max="62" min="57"/>
+     <HEAT min="4" max="6"/>
+    </FORECAST>
+    <FORECAST day="24" month="4" year="2007" hour="8" tod="1" predict="24" weekday="3">
+     <PHENOMENA cloudiness="3" precipitation="4" rpower="0" spower="0"/>
+     <PRESSURE max="742" min="740"/>
+     <TEMPERATURE max="8" min="6"/>
+     <WIND min="2" max="5" direction="4"/>
+     <RELWET max="68" min="63"/>
+     <HEAT min="6" max="8"/>
+    </FORECAST>
+    <FORECAST day="24" month="4" year="2007" hour="14" tod="2" predict="30" weekday="3">
+     <PHENOMENA cloudiness="3" precipitation="4" rpower="0" spower="0"/>
+     <PRESSURE max="743" min="741"/>
+     <TEMPERATURE max="14" min="12"/>
+     <WIND min="2" max="5" direction="3"/>
+     <RELWET max="51" min="46"/>
+     <HEAT min="12" max="14"/>
+    </FORECAST>
+    <FORECAST day="24" month="4" year="2007" hour="20" tod="3" predict="36" weekday="3">
+     <PHENOMENA cloudiness="2" precipitation="10" rpower="0" spower="0"/>
+     <PRESSURE max="742" min="740"/>
+     <TEMPERATURE max="11" min="9"/>
+     <WIND min="2" max="5" direction="3"/>
+     <RELWET max="75" min="70"/>
+     <HEAT min="9" max="11"/>
+    </FORECAST>
+  </TOWN>
+ </REPORT>
+</MMWEATHER>

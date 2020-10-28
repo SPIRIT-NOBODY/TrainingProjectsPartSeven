@@ -1,0 +1,85 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE students SYSTEM "students.dtd">
+<students>
+	<student id="id_1">
+		<lastname>Каркунов</lastname>
+		<firstname>Илья</firstname>
+		<group>5</group>
+		<phone gsm="029">122-59-01</phone>
+		<progress>8.2</progress>
+	</student>	
+	<student id="id_2">
+		<lastname>Прохоренко</lastname>
+		<firstname>Илья</firstname>
+		<group>4</group>
+		<phone gsm="025">111-11-11</phone>
+		<progress>4.1</progress>
+	</student>	
+	<student id="id_3">
+		<lastname>Маковецкий</lastname>
+		<firstname>Александр</firstname>
+		<group>5</group>
+		<phone gsm="033">222-22-22</phone>
+		<progress>9.2</progress>
+	</student>	
+	<student id="id_4">
+		<lastname>Маховиков</lastname>
+		<firstname>Валерий</firstname>
+		<group>5</group>
+		<phone gsm="029">333-33-33</phone>
+		<progress>7.3</progress>
+	</student>	
+	<student id="id_5">
+		<lastname>Колб</lastname>
+		<firstname>Александр</firstname>
+		<group>4</group>
+		<phone gsm="044">444-44-44</phone>
+		<progress>9</progress>
+	</student>	
+	<student id="id_6">
+		<lastname>Кавтур</lastname>
+		<firstname>Дмитрий</firstname>
+		<group>3</group>
+		<phone gsm="025">555-55-55</phone>
+		<progress>8.5</progress>
+	</student>	
+	<student id="id_7">
+		<lastname>Самоделкин</lastname>
+		<firstname>Михаил</firstname>
+		<group>1</group>
+		<phone gsm="029">666-66-66</phone>
+		<progress>6.7</progress>
+	</student>
+	
+	<student id="id_8">
+		<lastname>Галинский</lastname>
+		<firstname>Евгений</firstname>
+		<group>5</group>
+		<phone gsm="025">777-77-77</phone>
+		<progress>7.9</progress>
+	</student>
+	
+	<student id="id_9">
+		<lastname>Концевой</lastname>
+		<firstname>Василий</firstname>
+		<group>4</group>
+		<phone gsm="029">888-88-88</phone>
+		<progress>4.4</progress>
+	</student>
+	
+	<student id="id_10">
+		<lastname>Басинюк</lastname>
+		<firstname>Владимир</firstname>
+		<group>1</group>
+		<phone gsm="025">999-99-99</phone>
+		<progress>8.8</progress>
+	</student>
+	
+	<student id="id_11">
+		<lastname>Воробьев</lastname>
+		<firstname>Владимир</firstname>
+		<group>2</group>
+		<phone gsm="025">111-22-33</phone>
+		<progress>7.5</progress>
+	</student>
+</students>

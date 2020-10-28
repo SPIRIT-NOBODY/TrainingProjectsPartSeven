@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!ELEMENT students (student+) >
+<!ELEMENT student (lastname,firstname,group,phone,progress) >
+<!ELEMENT lastname (#PCDATA) >
+<!ELEMENT firstname (#PCDATA) >
+<!ELEMENT group (#PCDATA) >
+<!ELEMENT phone (#PCDATA) >
+<!ELEMENT progress (#PCDATA) >
+<!ATTLIST student id ID #REQUIRED>
+<!ATTLIST phone gsm  (033|025|029|044) #IMPLIED>
